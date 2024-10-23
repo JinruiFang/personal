@@ -24,8 +24,6 @@ profiles:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/JinruiFang
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/jinrui-fang/
   - icon: brands/orcid
     url: https://orcid.org/0009-0002-2695-7460
 
@@ -83,7 +81,7 @@ work:
     company_logo: ''
     date_start: 2021-06-30
     date_end: 2021-09-01
-    summary: |
+    summary: | 
       - Leveraged data analysis and market research to create user profiles and enhance app personalization, improving user experience through statistical modeling. Collaborated with crossfunctional teams to translate data insights into actionable specifications, leading to the development and integration of over 5 key features aligned with business targets.
 
 
@@ -117,13 +115,6 @@ skills:
         description: ''
         percent: 80
         icon: camera
-
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-
 
 # Awards.
 #   Add/remove as many awards below as you like.
