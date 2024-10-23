@@ -120,10 +120,7 @@ skills:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-
+---
 
 ## About Me
-
-你好! Hi!
-I am currently a graduate student studing data science at New York University! Before this, I obtained B.S. in Informatics (Data Science concentration) at the University of Washington. Feel free to reach out!
----
+你好! Hi! I am currently a graduate student studing data science at New York University! Before this, I obtained B.S. in Informatics (Data Science concentration) at the University of Washington. Feel free to reach out!
